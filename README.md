@@ -188,7 +188,7 @@ Alternatively, you may contact me directly:
 📧 **ffarhanah03@gmail.com**
 
 LinkedIn:  
-`https://www.linkedin.com/in/fatin-farhanah-415266257/`
+(https://www.linkedin.com/in/fatin-farhanah-415266257/)
 
 ---
 

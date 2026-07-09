@@ -62,43 +62,43 @@ This repository serves as a **public showcase repository** for portfolio and rec
 
 ## Login Page
 
-![Login Page](assets/screenshots/login.png)
+![Login Page](assets/1_screenshots/1_login.jpg)
 
 ---
 
 ## Patient Dashboard
 
-![Patient Dashboard](assets/screenshots/patient-dashboard.png)
+![Patient Dashboard](assets/1_screenshots/2_patient-dashboard.jpg)
 
 ---
 
 ## Appointment Scheduling
 
-![Appointment Scheduling](assets/screenshots/appointment.png)
+![Appointment Scheduling](assets/1_screenshots/3_appointment.jpg)
 
 ---
 
 ## Medical Record
 
-![Medical Record](assets/screenshots/medical-record.png)
+![Medical Record](assets/1_screenshots/4_medical-record.jpg)
 
 ---
 
 ## Healthcare Provider Dashboard
 
-![Healthcare Provider Dashboard](assets/screenshots/healthcare-provider-dashboard.png)
+![Healthcare Provider Dashboard](assets/1_screenshots/5_health-ed.jpg)
 
 ---
 
 ## Admin Dashboard
 
-![Admin Dashboard](assets/screenshots/admin-dashboard.png)
+![Admin Dashboard](assets/1_screenshots/6_admin-dashboard.jpg)
 
 ---
 
 ## 🏗️ System Architecture
 
-![System Architecture](assets/architecture/system-architecture.png)
+![System Architecture](assets/2_architecture/system-architecture.png)
 
 MediEase was designed as a mobile healthcare management system with role-based access and structured healthcare service workflows.
 

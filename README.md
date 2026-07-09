@@ -3,7 +3,7 @@
 > A Healthcare Appointment and Medical Record Management Mobile Application for Pusat Kesihatan Prima (PKP) UNIMAS.
 
 ![Status](https://img.shields.io/badge/status-Completed-success)
-![Platform](https://img.shields.io/badge/platform-Mobile-blue)
+![Platform](https://img.shields.io/badge/platform-Mobile-purple)
 ![Framework](https://img.shields.io/badge/framework-Flutter-blue)
 ![University](https://img.shields.io/badge/University-UNIMAS-red)
 ![License](https://img.shields.io/badge/license-Private-lightgrey)

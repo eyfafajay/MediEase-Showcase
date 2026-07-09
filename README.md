@@ -98,8 +98,6 @@ This repository serves as a **public showcase repository** for portfolio and rec
 
 ## 🏗️ System Architecture
 
-![System Architecture](assets/2_architecture/about.png)
-
 MediEase was designed as a mobile healthcare management system with role-based access and structured healthcare service workflows.
 
 ---
@@ -145,6 +143,14 @@ My contributions to MediEase included:
 - Client communication
 - Team coordination
 - Project management
+
+---
+
+## 🎥 Demo
+
+A demo video of MediEase is available here:
+
+▶️ [View Demo](DEMO.md)
 
 ---
 

@@ -1,4 +1,4 @@
-# 🎥 MediEase Demo
+# 🎥 MediEase Demo & Documentation
 
 This page contains the demonstration video for **MediEase**, a healthcare appointment and medical record management mobile application developed for Pusat Kesihatan Prima (PKP) UNIMAS.
 
@@ -23,6 +23,14 @@ The demo showcases the main features of MediEase, including:
 - Healthcare provider features
 - Administrator management features
 - User-friendly mobile interface
+
+---
+
+## 📄 Documentation
+
+Read the MediEase Slides here:
+
+🔗 [MediEase Slides on Google Drive](https://drive.google.com/drive/folders/1S6F-hw-3p1f4ZiGOVZy1ZHM5rVcmhZLk?usp=sharing)
 
 ---
 

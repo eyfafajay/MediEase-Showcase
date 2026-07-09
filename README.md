@@ -183,12 +183,17 @@ Please include:
 - GitHub Username
 - Reason for Access
 
-Alternatively, you may contact me directly:
+Alternatively, you may contact us directly:
 
 📧 **ffarhanah03@gmail.com**
 
 LinkedIn:  
 https://www.linkedin.com/in/fatin-farhanah-415266257/
+
+📧 **awangkuharis944@gmail.com**
+
+LinkedIn:  
+https://www.linkedin.com/in/awangku-haris-hakimi-bin-mohd-shafree-509695261/
 
 ---
 

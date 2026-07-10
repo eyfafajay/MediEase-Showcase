@@ -31,7 +31,7 @@ This repository serves as a **public showcase repository** for portfolio and rec
 
 ---
 
-## Key Features
+# Key Features
 
 ## Patient
 
@@ -58,7 +58,7 @@ This repository serves as a **public showcase repository** for portfolio and rec
 
 ---
 
-## System Architecture
+# System Architecture
 
 MediEase was designed as a mobile healthcare management system with role-based access and structured healthcare service workflows.
 
@@ -66,7 +66,7 @@ MediEase was designed as a mobile healthcare management system with role-based a
 
 ---
 
-## Screenshots
+# Screenshots
 
 ## Login Page
 
@@ -104,7 +104,7 @@ MediEase was designed as a mobile healthcare management system with role-based a
 
 ---
 
-## Technology Stack
+# Technology Stack
 
 | Category | Technology |
 |---|---|
@@ -117,7 +117,7 @@ MediEase was designed as a mobile healthcare management system with role-based a
 
 ---
 
-## Development Scope
+# Development Scope
 
 MediEase includes the following development scope:
 
@@ -133,7 +133,7 @@ MediEase includes the following development scope:
 
 ---
 
-## My Contribution
+# My Contribution
 
 My contributions to MediEase included:
 
@@ -148,7 +148,7 @@ My contributions to MediEase included:
 
 ---
 
-## Demo
+# Demo
 
 A demo video of MediEase is available here:
 
@@ -156,7 +156,7 @@ A demo video of MediEase is available here:
 
 ---
 
-## Installation
+# Installation
 
 The complete application source code is maintained in a private repository.
 
@@ -166,7 +166,7 @@ No sensitive credentials, database keys, or private implementation files are inc
 
 ---
 
-## Source Code Access
+# Source Code Access
 
 ![MediEase Repository](assets/2_architecture/mediease-repo.png)
 
@@ -176,7 +176,7 @@ Recruiters, hiring managers, or academic reviewers may request temporary access 
 
 ---
 
-## Request Access
+# Request Access
 
 You may request access by opening a GitHub Issue using the repository access request template.
 
@@ -205,7 +205,7 @@ LinkedIn: https://www.linkedin.com/in/awangku-haris-hakimi-bin-mohd-shafree-5096
 
 ---
 
-## 🎓 Academic Information
+# 🎓 Academic Information
 
 **Project Name:** MediEase: Healthcare Appointment and Medical Record Management System App
 
@@ -219,7 +219,7 @@ LinkedIn: https://www.linkedin.com/in/awangku-haris-hakimi-bin-mohd-shafree-5096
 
 ---
 
-## ⚠️ Academic Integrity Notice
+# ⚠️ Academic Integrity Notice
 
 This repository is intended to showcase the MediEase project for portfolio and recruitment purposes only.
 
@@ -229,7 +229,7 @@ Any unauthorized reproduction, redistribution, or academic misuse is strictly pr
 
 ---
 
-## 📜 License
+# 📜 License
 
 This repository is provided solely for portfolio and demonstration purposes.
 

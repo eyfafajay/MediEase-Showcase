@@ -166,6 +166,8 @@ No sensitive credentials, database keys, or private implementation files are inc
 
 ## Source Code Access
 
+![MediEase Repository](assets/2_architecture/mediease-github-repo.jng)
+
 The complete source code is **not publicly available** due to academic, privacy, and intellectual property considerations.
 
 Recruiters, hiring managers, or academic reviewers may request temporary access to the private source code repository for evaluation purposes.

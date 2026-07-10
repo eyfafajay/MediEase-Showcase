@@ -20,7 +20,7 @@ This repository serves as a **public showcase repository** for portfolio and rec
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - To develop a healthcare appointment management mobile application.
 - To support secure medical record access.
@@ -31,9 +31,9 @@ This repository serves as a **public showcase repository** for portfolio and rec
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-## 👤 Patient
+## Patient
 
 - Register and log in to the system
 - View personal profile
@@ -42,14 +42,14 @@ This repository serves as a **public showcase repository** for portfolio and rec
 - Access medical record information
 - Receive appointment notifications
 
-## 🏥 Healthcare Provider
+## Healthcare Provider
 
 - View patient appointment requests
 - Manage appointment details
 - Access patient-related medical information
 - Support healthcare service workflow
 
-## 🔑 Administrator
+## Administrator
 
 - Manage users
 - Manage appointment records
@@ -58,7 +58,7 @@ This repository serves as a **public showcase repository** for portfolio and rec
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 ## Login Page
 
@@ -96,13 +96,13 @@ This repository serves as a **public showcase repository** for portfolio and rec
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 MediEase was designed as a mobile healthcare management system with role-based access and structured healthcare service workflows.
 
 ---
 
-## 💻 Technology Stack
+## Technology Stack
 
 | Category | Technology |
 |---|---|
@@ -115,7 +115,7 @@ MediEase was designed as a mobile healthcare management system with role-based a
 
 ---
 
-## 📊 Development Scope
+## Development Scope
 
 MediEase includes the following development scope:
 
@@ -131,7 +131,7 @@ MediEase includes the following development scope:
 
 ---
 
-## 👩‍💻 My Contribution
+## My Contribution
 
 My contributions to MediEase included:
 
@@ -146,7 +146,7 @@ My contributions to MediEase included:
 
 ---
 
-## 🎥 Demo
+## Demo
 
 A demo video of MediEase is available here:
 
@@ -154,7 +154,7 @@ A demo video of MediEase is available here:
 
 ---
 
-## 📄 Installation
+## Installation
 
 The complete application source code is maintained in a private repository.
 
@@ -164,7 +164,7 @@ No sensitive credentials, database keys, or private implementation files are inc
 
 ---
 
-## 🔐 Source Code Access
+## Source Code Access
 
 The complete source code is **not publicly available** due to academic, privacy, and intellectual property considerations.
 
@@ -172,7 +172,7 @@ Recruiters, hiring managers, or academic reviewers may request temporary access 
 
 ---
 
-## 📩 Request Access
+## Request Access
 
 You may request access by opening a GitHub Issue using the repository access request template.
 
